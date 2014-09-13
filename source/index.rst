@@ -6,5 +6,5 @@ Doctrine
    :maxdepth: 4
 
 
-   en/index
    ja/index
+   en/index
