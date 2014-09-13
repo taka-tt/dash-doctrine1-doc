@@ -1,1 +1,0 @@
-Put here Sphinx themes for Doctrine
